@@ -2,10 +2,18 @@
 SimpleTab - The simple homepage for Google Chrome that should be your new tab page. Learn more on how to install below.
 
 # Installation
+## From this repo
 * Download this repo and extract the downloaded zip file.
 * Open Chrome and visit `chrome://extensions` (may be different depending on browser of choice)
 * Turn on developer mode (if you can't click it, it may be blocked by your school/work admin.)
 * Drag the folder for the extension and drop it in (you may need to reload the page). It *must* be **consumer**, **privacy-focused**, **business** or **edu**.
+* Then you're all set!
+## From GitHub releases (recommended)
+* Download the release you want from the releases page here: https://github.com/UltraProgrammer279/simpletab/releases
+* Extract the downloaded zip file.
+* Open Chrome and visit `chrome://extensions` (may be different depending on browser of choice)
+* Turn on developer mode (if you can't click it, it may be blocked by your school/work admin.)
+* Drag the folder for the extension and drop it in (you may need to reload the page). It *must* be **consumer**, **privacy-focused**, **business** or **edu**, not something like **consumer_1-0-0_pr1**.
 * Then you're all set!
 
 # Where does SimpleTab work on?
