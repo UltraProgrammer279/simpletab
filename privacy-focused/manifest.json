@@ -1,0 +1,34 @@
+{
+    "manifest_version": 2,
+    "name": "SimpleTab",
+    "description": "This should be your new tab page.",
+    "version": "1.0.0",
+    "icons": {
+        "16": "app_icons/icon_16.png",
+        "18": "app_icons/icon_18.png",
+        "20": "app_icons/icon_20.png",
+        "24": "app_icons/icon_24.png",
+        "32": "app_icons/icon_32.png",
+        "36": "app_icons/icon_36.png",
+        "48": "app_icons/icon_48.png",
+        "64": "app_icons/icon_64.png",
+        "72": "app_icons/icon_72.png",
+        "96": "app_icons/icon_96.png",
+        "128": "app_icons/icon_128.png",
+        "192": "app_icons/icon_192.png",
+        "256": "app_icons/icon_256.png",
+        "288": "app_icons/icon_288.png",
+        "384": "app_icons/icon_384.png",
+        "512": "app_icons/icon_512.png",
+        "768": "app_icons/icon_768.png",
+        "1024": "app_icons/icon_1024.png"
+    },
+    "browser_action": {
+        "default_icon": "app_icons/icon_72.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "minimum_chrome_version": "84.0",
+    "permissions": ["activeTab"]
+}
