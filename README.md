@@ -1,5 +1,5 @@
 # SimpleTab
-SimpleTab - The simple homepage for Google Chrome that should be your new tab page. Learn more on how to install below.
+SimpleTab - Designed for Microsoft Edge, made for future Chrome versions. Learn more on how to install below.
 
 # Installation
 ## From this repo
