@@ -29,3 +29,4 @@ Sometimes, it may disable the extension after install. Please make sure to re-en
 * **Business** - made for business users of this extension. It may be forked by other groups/companies to modify settings for their needs (e.g. change the CSS, set search engine and customize shortcuts). The default search engine is Google, but they can change the search engine or even remove search entirely.
 * **Education** - made for schools and school districts. It also may be forked for their needs, like redirect to the school's website whenever someone opens a new tab. The default search engine is Google, but schools may remove the search bar for safety reasons.
 * **Privacy-focused** - this extension is for the people who need their privacy. No shortcuts, no tracking, nothing like that. The search engine is DuckDuckGo by default for privacy reasons.
+* **Charity for trees** - Helps the planet by using Ecosia as the default search engine.
